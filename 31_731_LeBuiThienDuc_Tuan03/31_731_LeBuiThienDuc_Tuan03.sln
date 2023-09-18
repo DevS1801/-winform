@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31_731_LeBuiThienDuc_Tuan03", "31_731_LeBuiThienDuc_Tuan03\31_731_LeBuiThienDuc_Tuan03.csproj", "{FBFB0229-391D-4121-812D-AA6AB2E3157A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{5C45EA13-D800-4907-BD81-19016504419D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBFB0229-391D-4121-812D-AA6AB2E3157A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFB0229-391D-4121-812D-AA6AB2E3157A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFB0229-391D-4121-812D-AA6AB2E3157A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFB0229-391D-4121-812D-AA6AB2E3157A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C45EA13-D800-4907-BD81-19016504419D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C45EA13-D800-4907-BD81-19016504419D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C45EA13-D800-4907-BD81-19016504419D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C45EA13-D800-4907-BD81-19016504419D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FFA1E26-E74C-4A3E-A5CB-2F4082B51A94}
+	EndGlobalSection
+EndGlobal
