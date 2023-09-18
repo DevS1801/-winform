@@ -1,0 +1,15 @@
+F:\web\.Net\31_731_LeBuiThienDuc_Tuan01\31_731_LeBuiThienDuc_Tuan01\bin\Debug\31_731_LeBuiThienDuc_Tuan01.exe.config
+F:\web\.Net\31_731_LeBuiThienDuc_Tuan01\31_731_LeBuiThienDuc_Tuan01\bin\Debug\31_731_LeBuiThienDuc_Tuan01.exe
+F:\web\.Net\31_731_LeBuiThienDuc_Tuan01\31_731_LeBuiThienDuc_Tuan01\bin\Debug\31_731_LeBuiThienDuc_Tuan01.pdb
+F:\web\.Net\31_731_LeBuiThienDuc_Tuan01\31_731_LeBuiThienDuc_Tuan01\obj\Debug\31_731_LeBuiThienDuc_Tuan01.csproj.AssemblyReference.cache
+F:\web\.Net\31_731_LeBuiThienDuc_Tuan01\31_731_LeBuiThienDuc_Tuan01\obj\Debug\_31_731_LeBuiThienDuc_Tuan01.Frm_BTM1.resources
+F:\web\.Net\31_731_LeBuiThienDuc_Tuan01\31_731_LeBuiThienDuc_Tuan01\obj\Debug\_31_731_LeBuiThienDuc_Tuan01.Frm_BTTL2.resources
+F:\web\.Net\31_731_LeBuiThienDuc_Tuan01\31_731_LeBuiThienDuc_Tuan01\obj\Debug\_31_731_LeBuiThienDuc_Tuan01.Frm_BTTL_1.resources
+F:\web\.Net\31_731_LeBuiThienDuc_Tuan01\31_731_LeBuiThienDuc_Tuan01\obj\Debug\_31_731_LeBuiThienDuc_Tuan01.Properties.Resources.resources
+F:\web\.Net\31_731_LeBuiThienDuc_Tuan01\31_731_LeBuiThienDuc_Tuan01\obj\Debug\31_731_LeBuiThienDuc_Tuan01.csproj.GenerateResource.cache
+F:\web\.Net\31_731_LeBuiThienDuc_Tuan01\31_731_LeBuiThienDuc_Tuan01\obj\Debug\31_731_LeBuiThienDuc_Tuan01.csproj.CoreCompileInputs.cache
+F:\web\.Net\31_731_LeBuiThienDuc_Tuan01\31_731_LeBuiThienDuc_Tuan01\obj\Debug\31_731_LeBuiThienDuc_Tuan01.exe
+F:\web\.Net\31_731_LeBuiThienDuc_Tuan01\31_731_LeBuiThienDuc_Tuan01\obj\Debug\31_731_LeBuiThienDuc_Tuan01.pdb
+F:\web\.Net\31_731_LeBuiThienDuc_Tuan01\31_731_LeBuiThienDuc_Tuan01\obj\Debug\_31_731_LeBuiThienDuc_Tuan01.Frm_BTVN1.resources
+F:\web\.Net\31_731_LeBuiThienDuc_Tuan01\31_731_LeBuiThienDuc_Tuan01\obj\Debug\_31_731_LeBuiThienDuc_Tuan01.Frm_BTVN2.resources
+F:\web\.Net\31_731_LeBuiThienDuc_Tuan01\31_731_LeBuiThienDuc_Tuan01\obj\Debug\_31_731_LeBuiThienDuc_Tuan01.Frm_BTVN3.resources
